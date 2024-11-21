@@ -1,3 +1,4 @@
+![logo](https://github.com/ParthasarathiSwain/ParthasarathiSwain/blob/main/greetings.gif)
 <h1 align="center">Hi 👋, I'm Parthasarathi Swain</h1>
 <h3 align="center">Empowering Applications with Spring Boot Magic.</h3>
 
