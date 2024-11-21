@@ -2,6 +2,7 @@
 <h3 align="center">Empowering Applications with Spring Boot Magic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthasarathiswain&label=Profile%20views&color=0e75b6&style=flat" alt="parthasarathiswain" /> </p>
+<img src="img.gif" align="right" width="400" height="400" alt="img" /> 
 
 - 🌱 I’m currently working on **Springboot,Angular**
 
