@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rajaswain6969@gmail.com**
 
-- 🐛Fun fact **Java was initially called “Oak” because of an oak tree outside the creator’s office.**
+- 🐛Fun fact **Java was initially called “Oak” because of an oak tree outside the creator’s office..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
