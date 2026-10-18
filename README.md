@@ -8,9 +8,9 @@
 - 🌱 I’m currently working on **Springboot,Angular**
 
 - 📫 How to reach me **rajaswain6969@gmail.com**
-
-- 🐛Fun fact **Java was initially called “Oak” because of an oak tree outside the creator’s office..**
-
+- 
+- 🐛 Fun Fact: **Java code runs on the JVM, which means the same compiled bytecode can work on different operating systems without recompilation!**🚀
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/parthasarathi-swain-657454238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/parthasarathi-swain-657454238" height="30" width="40" /></a>
